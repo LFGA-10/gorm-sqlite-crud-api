@@ -1,0 +1,17 @@
+# Go
+backend/tasks.db
+backend/tasks.db-journal
+
+# Node
+node_modules/
+frontend/dist/
+*.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+config.bat
+.env
